@@ -39,3 +39,8 @@ interface a {
 interface b {
     b:string, 
 }
+
+interface c {
+    c:boolean; 
+}
+
