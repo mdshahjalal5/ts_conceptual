@@ -26,7 +26,7 @@ const HeroData:HeroTypeB = {
 //union -> |
 // intersection -> &
 // ?q! n!
-// ?n! myfavHero should be HeroTypeA or HeroTypeB but below it's  type is not HeroTypeA or HeroTypeB still editor now showing error 
+// ?n! myfavHero should be HeroTypeA or HeroTypeB but below it's  type is not HeroTypeA or HeroTypeB still editor not showing error 
 const myFavHero:HeroTypeA | HeroTypeB = {
     name: "khan",
     // age: 30, //? union let no problem if one is missing 
