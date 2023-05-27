@@ -1,3 +1,6 @@
+// ? 
+
+
 type HeroTypeA = {
     name: string;
     age?: number;
@@ -22,11 +25,12 @@ const HeroData:HeroTypeB = {
 
 //union -> |
 // intersection -> &
-
+// ?q! n!
+// ?n! myfavHero should be HeroTypeA or HeroTypeB but below it's  type is not HeroTypeA or HeroTypeB still editor now showing error 
 const myFavHero:HeroTypeA | HeroTypeB = {
     name: "khan",
-    age: 30,
-    salary: 34454,
+    // age: 30, //? union let no problem if one is missing 
+    salary: 34454,// ?
     //position: "Actor"
 }
 
@@ -51,6 +55,6 @@ type d = a & b &{
 const DD:d = {
     a:1,
     b:'b', 
-    // name:'same', 
+    name:'same', 
     c:true
 }
