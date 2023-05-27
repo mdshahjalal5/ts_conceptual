@@ -13,5 +13,5 @@ type ABC = number;
 
 const hero7:HeroType1 = {
     name: "siam ahmed",
-    age: 34
+    age:33
 }
