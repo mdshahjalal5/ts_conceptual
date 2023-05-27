@@ -3,6 +3,10 @@ type HeroTypeA = {
     age?: number;
 }
 
+interface another {
+    another:string;
+}
+
 type HeroTypeB = HeroTypeA & {
     salary: number;
     position?: string;
@@ -20,7 +24,7 @@ const HeroData:HeroTypeB = {
 
 const myFavHero:HeroTypeA | HeroTypeB = {
     name: "khan",
-    //age: 30,
+    age: 30,
     salary: 34454,
     //position: "Actor"
 }
