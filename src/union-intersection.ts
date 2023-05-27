@@ -35,3 +35,7 @@ const myFavHero:HeroTypeA | HeroTypeB = {
 interface a {
     a:number;
 }
+
+interface b {
+    b:string, 
+}
