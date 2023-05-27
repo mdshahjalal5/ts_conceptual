@@ -1,3 +1,4 @@
+// 5/27/2023, 6:19:45 PM 
 interface IHeroInterface {
     name: string;
     age: number;
