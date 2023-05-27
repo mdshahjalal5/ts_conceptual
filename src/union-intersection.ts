@@ -44,3 +44,13 @@ interface c {
     c:boolean; 
 }
 
+type d = a & b &{
+    name:string;
+}  | c;
+
+const DD:d = {
+    a:1,
+    b:'b', 
+    // name:'same', 
+    c:true
+}
