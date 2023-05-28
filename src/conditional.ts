@@ -7,3 +7,5 @@ type TypeD = boolean;
 type TypeE = TypeA extends number ? number : TypeC extends string ? string : null;
 
 type another3 = TypeA extends null ? string : TypeD extends string ? string: boolean;
+
+
