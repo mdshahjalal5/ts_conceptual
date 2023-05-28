@@ -78,5 +78,11 @@ interface ICountry  {
     population?:number, 
 }
 
-
+const arr:arr<ICountry> =[
+    {
+        name:'Bangladesh',
+        is_independant:true,
+        population:100303, 
+    }
+]
 
