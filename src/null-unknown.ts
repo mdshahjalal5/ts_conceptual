@@ -1,13 +1,15 @@
 // null
 const myText = (text: string | null):void => {
-    console.log(text.slice(0, 3));
+
+    // ? before checking the type you can't use any operation 
     
-    if(text === null){
-        console.log("I have no text");
-    }
-    else{
-        console.log(text);
-    }
+//   ?console.log(text.slice(0, 3)); // ![ts] 'text' is possibly 'null'.
+
+  if (text === null) {
+    console.log("I have no text");
+  } else {
+    console.log(text);
+  }
 }
 
 //myText(null);
