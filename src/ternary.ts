@@ -28,3 +28,8 @@ const inputSomething:unknown =null;
 const checkInput = inputSomething ?? "No input";
 console.log(checkInput);
 
+
+// !n! if inputSomething2 is not null | undefined then checkInput value will be the inputSomething value
+const inputSomething2: unknown = 'its not null or undefined';
+const checkInput2 = inputSomething2 ?? "No input";
+console.log(checkInput2);
