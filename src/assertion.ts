@@ -16,3 +16,7 @@ type ami<t>  = t;
 
 const name3:ami<string> = 'shahjalal'
 console.log(name3);
+
+type fun<T1, T2> = (p1:T1, p2:T2) => void
+
+
