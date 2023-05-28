@@ -35,9 +35,7 @@ console.log(printInfo<string, number>('fahim', 32))
 
 // generic in interface
 
-
-//? default value 
-interface IMe<T, U = undefined> {
+interface IMe<T, U = undefined> { //? default value 
     name: string;
     age: T; // 23, 23years
     mark: U;
