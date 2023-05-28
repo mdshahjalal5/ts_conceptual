@@ -23,6 +23,8 @@ const checkAvailablity = isHeroAvailable ? "book now" : "you can not book";
  * "" = ""
  */
 
-const inputSomething:unknown = null;
+// ! n! if inputSomething is null | undefined then checkInput value is "no input" 
+const inputSomething:unknown =null;
 const checkInput = inputSomething ?? "No input";
 console.log(checkInput);
+
