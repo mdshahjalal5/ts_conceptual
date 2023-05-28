@@ -15,12 +15,15 @@ const myText = (text: string | null):void => {
 
 
 // unknown type
+// ?n! if unknown first ensure the type 
 const guessSomething = (myGuess: unknown) => {
-    if(typeof myGuess === 'number'){
-        return myGuess + 5
-    }
     
-    console.log(myGuess);
+  // const  chk = myGuess+5 //? [ts] 'myGuess' is of type 'unknown'.
+  if (typeof myGuess === "number") {
+    return myGuess + 5;
+  }
+
+  console.log(myGuess);
 }
 
 guessSomething(23);
