@@ -1,3 +1,4 @@
+
 type myArray<T> = Array<T>
 // T = number
 // Array<number>
