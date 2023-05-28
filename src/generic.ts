@@ -70,7 +70,6 @@ console.log(data[myText11])
 // ? 5/28/2023, 10:19:33 AM 5/28/2023, 10:19:33 AM 5/28/2023, 10:19:34 AM 5/28/2023, 10:19:34 AM 5/28/2023, 10:19:34 AM 5/28/2023, 10:19:34 AM 5/28/2023, 10:19:35 AM 
 
 // !  create an array of objects using generic and interface 
-
 type arr<T> = Array<T>
 interface ICountry  {
     name:string, 
