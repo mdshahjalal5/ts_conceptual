@@ -1,5 +1,7 @@
 // null
 const myText = (text: string | null):void => {
+    console.log(text.slice(0, 3));
+    
     if(text === null){
         console.log("I have no text");
     }
@@ -14,6 +16,10 @@ const myText = (text: string | null):void => {
 
 // unknown type
 const guessSomething = (myGuess: unknown) => {
+    if(typeof myGuess === 'number'){
+        return myGuess + 5
+    }
+    
     console.log(myGuess);
 }
 
