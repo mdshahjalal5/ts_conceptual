@@ -1,3 +1,4 @@
+
 // type assertion
 const thinkSomething:unknown = 34.43535;
 //const result = (thinkSomething as number)
