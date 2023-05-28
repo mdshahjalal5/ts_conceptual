@@ -10,3 +10,9 @@ const myLuckyNum = (num: string | number): number | string =>{
     }
     return num;
 }
+
+
+type ami<t>  = t;
+
+const name3:ami<string> = 'shahjalal'
+console.log(name3);
