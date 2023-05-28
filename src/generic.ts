@@ -66,3 +66,6 @@ const data:MovieType = {
 type myMoviesType = keyof MovieType // 'name' | 'duration' | 'category'
 const myText11:myMoviesType = 'name'
 console.log(data[myText11])
+
+
+const arr:Array<number> = [3, 4, 5, 6, 7, 8, 9, 10, 11]
