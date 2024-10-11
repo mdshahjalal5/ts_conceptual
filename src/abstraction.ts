@@ -5,6 +5,9 @@ abstract class Car{
 }
 
 class MyCar extends Car{
+    constructor(public name: string){
+        super();
+    }
     start(): void {
         console.log("Car Starting... ");
     }
@@ -13,5 +16,6 @@ class MyCar extends Car{
     }
 }
 
-const car1 = new MyCar();
+const car1 = new MyCar('bmw');
 car1.start();
+console.log(car1);

@@ -1,0 +1,28 @@
+"filename", "language", "JSON with Comments", "Markdown", "TypeScript", "JSON", "comment", "blank", "total"
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/README.md", "Markdown", 0, 285, 0, 0, 2, 78, 365
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/package-lock.json", "JSON", 0, 0, 0, 798, 0, 1, 799
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/package.json", "JSON", 0, 0, 0, 19, 0, 1, 20
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/abstraction.ts", "TypeScript", 0, 0, 14, 0, 1, 2, 17
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/alias.ts", "TypeScript", 0, 0, 18, 0, 0, 6, 24
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/array-tuples.ts", "TypeScript", 0, 0, 4, 0, 2, 4, 10
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/assertion.ts", "TypeScript", 0, 0, 8, 0, 2, 1, 11
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/conditional.ts", "TypeScript", 0, 0, 4, 0, 2, 1, 7
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/encapsulation.ts", "TypeScript", 0, 0, 12, 0, 1, 2, 15
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/function.ts", "TypeScript", 0, 0, 8, 0, 3, 4, 15
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/generic.ts", "TypeScript", 0, 0, 42, 0, 10, 16, 68
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/index.ts", "TypeScript", 0, 0, 3, 0, 8, 1, 12
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/interface.ts", "TypeScript", 0, 0, 13, 0, 2, 2, 17
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/mapped.ts", "TypeScript", 0, 0, 19, 0, 5, 5, 29
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/null-unknown.ts", "TypeScript", 0, 0, 23, 0, 9, 8, 40
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/object.ts", "TypeScript", 0, 0, 14, 0, 0, 2, 16
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/oop.ts", "TypeScript", 0, 0, 35, 0, 3, 13, 51
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/polymorphism.ts", "TypeScript", 0, 0, 22, 0, 0, 5, 27
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/problem-10.ts", "TypeScript", 0, 0, 9, 0, 0, 1, 10
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/problem-13.ts", "TypeScript", 0, 0, 8, 0, 3, 2, 13
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/spread-rest.ts", "TypeScript", 0, 0, 18, 0, 11, 12, 41
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/ternary.ts", "TypeScript", 0, 0, 5, 0, 19, 4, 28
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/type-guard.ts", "TypeScript", 0, 0, 61, 0, 5, 13, 79
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/src/union-intersection.ts", "TypeScript", 0, 0, 40, 0, 8, 12, 60
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/task.md", "Markdown", 0, 17, 0, 0, 0, 16, 33
+"/media/mdshahjalal5/forUbuntu2/web2/1ts/conceptual_ts/ts_conceptual/tsconfig.json", "JSON with Comments", 12, 0, 0, 0, 89, 9, 110
+"Total", "-", 12, 302, 380, 817, 185, 221, 1917

@@ -10,3 +10,4 @@
 const str:string = "Hello world!";
 const num:number = 23;
 const isNum:boolean = false;
+console.log('shajalal');
