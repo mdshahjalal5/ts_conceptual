@@ -367,13 +367,3 @@ console.log(longNames);  // Output: ['Alice', 'Charlie']
 # ts_conceptual
 
 # ts_conceptual
-
-# ts_conceptual
-
-# ts_conceptual
-
-# ts_conceptual
-
-# ts_conceptual
-
-# ts_conceptual
